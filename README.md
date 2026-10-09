@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ankur Kumar 👋</h1>
+<h1 align="center">Hey, I'm Ankur👋</h1>
 <p align="center">
   <b>Full Stack Developer · AI/ML Engineer · DSA Enthusiast</b><br/>
   B.Tech in Computer Science (AI & ML) @ Sharda University, 2024–2028
