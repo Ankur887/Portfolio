@@ -1,0 +1,35 @@
+{
+  "name": "ankur-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@react-three/fiber": "8.15.19",
+    "@react-three/drei": "9.106.1",
+    "@react-three/postprocessing": "2.16.2",
+    "postprocessing": "6.35.3",
+    "three": "0.160.1",
+    "framer-motion": "10.18.0",
+    "gsap": "3.12.5",
+    "lenis": "1.0.45",
+    "zustand": "4.5.2",
+    "lucide-react": "0.363.0",
+    "@fontsource/space-grotesk": "5.0.18",
+    "@fontsource/inter": "5.0.18",
+    "@fontsource/jetbrains-mono": "5.0.18"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.2.1",
+    "vite": "5.1.4",
+    "tailwindcss": "3.4.1",
+    "autoprefixer": "10.4.18",
+    "postcss": "8.4.35"
+  }
+}
